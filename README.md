@@ -12,5 +12,4 @@
   </a>
 </p>
 
-<i class="fa-brands fa-instagram"></i>
-<div class="instagram-logo"></div>
+^https://(www\.)?instagram\.com/[^/?]+/?$
