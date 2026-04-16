@@ -1,5 +1,15 @@
 ## Welcome to my github page, lets connect.....👋
 
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="https://www.linkedin.com/in/mserieys/">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
+
+
 
 
 <!--
@@ -25,13 +35,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mserieys/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-
-<p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
-</p>
 
