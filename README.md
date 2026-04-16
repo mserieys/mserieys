@@ -1,14 +1,13 @@
 ## Welcome to my github page, lets connect.....👋
 
-<p>
-  <a href="https://www.linkedin.com/[removed]" rel="https://www.linkedin.com/in/mserieys/">
+  <a href="https://www.linkedin.com/mserieys" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://github.com/mserieys" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
   </a>
 </p>
-
+    
 
 
 
