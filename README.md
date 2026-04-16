@@ -12,5 +12,4 @@
   </a>
 </p>
 
-
-[![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/p/B_LXgD0Hzgx/)
+<i class="fa-brands fa-instagram"></i>
